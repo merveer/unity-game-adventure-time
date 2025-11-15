@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 27f7164e75fe3884cbfc8484478084e8
+timeCreated: 1499872557
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Animation/Enemy/Dull Man_Run.anim
+  uploadId: 771511

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 64d5c93df7f916344b72ff3c526986f9
+timeCreated: 1509695790
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/ReadMe.txt
+  uploadId: 771511

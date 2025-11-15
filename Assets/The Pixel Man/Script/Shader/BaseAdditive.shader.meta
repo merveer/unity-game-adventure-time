@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1d74776b672b61b4da3b920ea5171684
+timeCreated: 1499619246
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Script/Shader/BaseAdditive.shader
+  uploadId: 771511

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f281529a96c50d4d9f09459db91f563
+timeCreated: 1499872780
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Animation/Enemy/Humpback Man.controller
+  uploadId: 771511

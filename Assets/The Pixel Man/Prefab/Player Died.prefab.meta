@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14b7acd9d2f38154386180f9654a3986
+timeCreated: 1499676291
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Prefab/Player Died.prefab
+  uploadId: 771511

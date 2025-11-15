@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 407cf7a501ca04847beefbd512139ccf
+timeCreated: 1499522715
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 571167235653111936, guid: 0000000000000000d000000000000000, type: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Script/Object/CharacterAttackness.cs
+  uploadId: 771511

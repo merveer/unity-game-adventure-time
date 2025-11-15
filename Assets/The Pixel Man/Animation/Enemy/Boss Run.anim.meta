@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 27277a5c80feef54e8d43b7a235f8f35
+timeCreated: 1499940708
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Animation/Enemy/Boss Run.anim
+  uploadId: 771511

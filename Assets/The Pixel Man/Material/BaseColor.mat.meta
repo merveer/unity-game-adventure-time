@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1ab592a7cb1c1d144b0f746b59ce4bcc
+timeCreated: 1499619246
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Material/BaseColor.mat
+  uploadId: 771511

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5dde399ab2a898148ab6638958b0d002
+timeCreated: 1499619246
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Material/BaseAdditive.mat
+  uploadId: 771511

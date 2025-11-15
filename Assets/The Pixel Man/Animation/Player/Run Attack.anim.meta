@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8d11cdf1a634fca4a976299dbdbe90a5
+timeCreated: 1499512200
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Animation/Player/Run Attack.anim
+  uploadId: 771511

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5cb962e1b74880c478c545390e032154
+timeCreated: 1499619246
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Script/Shader/BaseColor.shader
+  uploadId: 771511

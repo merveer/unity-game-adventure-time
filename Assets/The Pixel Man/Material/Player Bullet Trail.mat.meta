@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 39019912c0cfb614291d9907ff366b42
+timeCreated: 1499606379
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Material/Player Bullet Trail.mat
+  uploadId: 771511

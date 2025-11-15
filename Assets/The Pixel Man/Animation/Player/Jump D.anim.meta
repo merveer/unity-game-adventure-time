@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a869801c105e9cc49ba319ccd5b46603
+timeCreated: 1499515867
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100753
+  packageName: The Pixel Man | 2D Platformer Template
+  packageVersion: 1.0.1
+  assetPath: Assets/The Pixel Man/Animation/Player/Jump D.anim
+  uploadId: 771511
